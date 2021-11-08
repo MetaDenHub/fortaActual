@@ -1,5 +1,7 @@
 discord: Denchik#4649
 
+# Please add me as a Agent Developer [Published] on Discord, my discord username is Denchik#4649
+
 # High Gas Agent
 
 Alert for more than 1 000 000 Gas transaction
