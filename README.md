@@ -1,5 +1,3 @@
-discord: Denchik#4649
-
 # Please add me as a Agent Developer [Published] on Discord, my discord username is Denchik#4649
 
 # High Gas Agent
