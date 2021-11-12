@@ -40,6 +40,6 @@ const handleTransaction: HandleTransaction = async (txEvent: TransactionEvent) =
 }
 
 export default {
-  handleTransaction,
-  handleBlock
+  handleTransaction
+  //handleBlock
 }
