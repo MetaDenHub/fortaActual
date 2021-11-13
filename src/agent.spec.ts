@@ -7,7 +7,7 @@ import {
 } from "forta-agent"
 import agent from "./agent"
 
-describe("high gas agent", () => {
+describe("high gas agent ", () => {
   let handleTransaction: HandleTransaction
 
   const createTxEventWithGasUsed = (gasUsed: string) => createTransactionEvent({
